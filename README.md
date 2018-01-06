@@ -25,13 +25,13 @@ The main code structure is forked from https://github.com/pytorch/examples/tree/
 ---
 
 
-## Resutls
+## Results
 
 * Generate using fixed noise (fixed_z_)
 
 <table align='center'>
 <tr align='center'>
-<td> Training image</td>
+<td> Training image</td>lt
 <td> Result image</td>
 </tr>
 <tr>
