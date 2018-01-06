@@ -47,7 +47,7 @@ The main code structure is forked from https://github.com/pytorch/examples/tree/
 <tr align='center'>
 <td> Real image </td>
 <td> DCGAN after 50 epochs </td>
-<td> DCGAN crop after 150 epochs </td>
+<td> DCGAN after 150 epochs </td>
 </tr>
 <tr>
 <td><img src = 'result/real.png'>
