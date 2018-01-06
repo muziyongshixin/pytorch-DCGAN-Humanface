@@ -1,6 +1,6 @@
 ﻿# pytorch-DCGAN-Humanface
 ## Introduction
-Pytorch implementation of  Deep Convolutional Generative Adversarial Networks (DCGAN) [2] for humanface datasets,witch can genarate some beautiful girls' face.
+This is a Pytorch implementation of  Deep Convolutional Generative Adversarial Networks (DCGAN) [2] for humanface datasets,witch can genarate some beautiful girls' face.
 
 This project is inspired by this blog :https://zhuanlan.zhihu.com/p/26639135
 
@@ -17,7 +17,8 @@ The main code structure is forked from https://github.com/pytorch/examples/tree/
 * The input and output image size of the neural network is  64 x 64 ,
 * The learning rate is initialized as 0.0002，and reduces a half every 50 epoch. 
 * The dimension of random noise is set to 1000. 
-*  We trained this network for 300 epoch and got the final result below.
+* For each iteration, we train the netD first for once and then train the netG for twice.
+* We trained this network for 300 epoch and got the final result below.
 
 
 
