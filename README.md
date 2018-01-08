@@ -130,7 +130,7 @@ optional arguments:
 
 
 ---
-##Some  Reference
+## Some Reference
 
 [1] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
 
