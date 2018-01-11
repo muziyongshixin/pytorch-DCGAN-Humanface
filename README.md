@@ -1,6 +1,6 @@
 ﻿# pytorch-DCGAN-Humanface
 ## Introduction
-This is a Pytorch implementation of  Deep Convolutional Generative Adversarial Networks (DCGAN) [2] for humanface datasets,witch can genarate some beautiful girls' face.
+This is a Pytorch implementation of  Deep Convolutional Generative Adversarial Networks (DCGAN) [2] for humanface datasets,which can genarate some beautiful girls' face.
 
 This project is inspired by this blog :https://zhuanlan.zhihu.com/p/26639135
 
