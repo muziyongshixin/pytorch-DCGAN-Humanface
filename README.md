@@ -30,7 +30,7 @@ The main code structure is forked from https://github.com/pytorch/examples/tree/
 * Generate using fixed noise (fixed_z_)
 <table align='center'>
 <tr align='center'>
-<td> Training image </td>lt
+<td> Training image </td>
 <td> Result image </td>
 </tr>
 <tr>
